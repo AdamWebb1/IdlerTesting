@@ -1,29 +1,13 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+/SteamIdler.userprefs
+/SteamIdler/bin/Debug/SteamIdler.exe
+/SteamIdler/bin/Debug/SteamIdler.pdb
+/SteamIdler/bin/Debug/SteamKit2.dll
+/SteamIdler/bin/Debug/protobuf-net.dll
+/SteamIdler/bin/Release/SteamKit2.dll
+/SteamIdler/bin/Release/protobuf-net.dll
+/SteamIdler/bin/Release/SteamIdler.exe
+/SteamIdler/bin/Release/SteamIdler.pdb
+/SteamIdler/obj
+/SteamIdler/bin/Debug
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+/SteamIdler.v11.suo
