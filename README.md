@@ -4,8 +4,6 @@ SteamIdler
 # SteamIdler
 
 
-![ScreenShot](http://i.imgur.com/0MZBcuG.jpg)
-
 SteamIdler allows you to appear as 'in-game' without having Steam open. It can be used to increase playing time or to earn trading cards, it can't be used to get Team Fortress 2 or Dota 2 items!
 
 **Need to add SteamGuard Support**
