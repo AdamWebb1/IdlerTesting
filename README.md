@@ -14,3 +14,6 @@ After you have compiled SteamIdler, you can use the program with the following c
 ``SteamIdler.exe <SteamUsername> <SteamPassword> <AppID> [AppID] [...]``
 
 If compiled with Mono, SteamIdler can also be used in Linux.
+
+## Final Note
+This probably isn't a good idea to use, if you're after getting cards since Steam's latest update, still works for adding hours to Steam Games however..
